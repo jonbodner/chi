@@ -1,4 +1,4 @@
-module github.com/jonbodner/chi
+module github.com/jonbodner/chi/v5
 
 go 1.14
 
